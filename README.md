@@ -142,6 +142,9 @@
     <td>
       <img src="./assets/skills/tools/trello.png" alt="Trello" width="75" title="Trello"/>
     </td>
+    <td>
+      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
+    </td>
   </tr>
   <tr>
     <td>
@@ -149,9 +152,6 @@
     </td>
     <td>
       <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
-    </td>
-    <td>
-     <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
     </td>
   </tr>
 </table>
