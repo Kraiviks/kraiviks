@@ -1,6 +1,6 @@
 <img src="./assets/preview.png" alt="Preview"/>
 
-## Serhii Kostiv
+## I'm Serhii Kostiv
 
 - I'm From Ukraine (Ivano-Frankivsk);
 - 3+ Years Experience in Front-end Development;
@@ -52,14 +52,14 @@
            title="Next.js, as well as SSR & SSG technologies such as Gatsby, HUGO, and Remix"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/vue.png" width="75"
            alt="Vue, as well as technologies such as Vuex"
            title="Vue, as well as technologies such as Vuex"
       />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
            alt="Web Components"
@@ -81,14 +81,14 @@
            title="HTML"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/css_preprocessors.png" width="75"
            alt="CSS preprocessors such as SASS, LESS"
            title="CSS preprocessors such as SASS, LESS"
       />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/css_tools.png" width="75"
            alt="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Pure CSS and Skeleton"
@@ -109,13 +109,13 @@
     <td>
       <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" width="75" title="PWA and AMP"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/other/git.png" width="75"
            alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
            title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
     </td>
@@ -150,7 +150,8 @@
     <td>
       <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
     </td>
-      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
+    <td>
+     <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
     </td>
   </tr>
 </table>
