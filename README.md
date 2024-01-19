@@ -103,8 +103,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_tools.png" width="75"
-           alt="JS testing tools such as Jest, Cypress"
-           title="JS testing tools such as Jest, Cypress"/>
+           alt="JS testing tools such as Jest, Enzyme, RTL, Cypress"
+           title="JS testing tools such as Jest, Enzyme, RTL, Cypress"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" width="75" title="PWA and AMP"/>
