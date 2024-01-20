@@ -28,8 +28,26 @@
     <td>
       <img src="./assets/skills/frontend/ts.png" alt="TypeScript and Flow" width="75" title="TypeScript and Flow"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/react.png" alt="React and Preact" width="75" title="React and Preact"/>
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/next.png" width="75"
+           alt="Next.js"
+           title="Next.js"
+      />
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL" width="75"
+           title="GraphQL"/>
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/vue.png" width="75"
+           alt="Vue, and Vuex"
+           title="Vue, and Vuex"
+      />
     </td>
   </tr>
   <tr>
@@ -44,24 +62,6 @@
            title="State management libraries such as Redux, MobX"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL" width="75"
-           title="GraphQL"/>
-    </td>
-    <td>
-      <img src="./assets/skills/frontend/next.png" width="75"
-           alt="Next.js"
-           title="Next.js"
-      />
-    </td>
-    <td>
-      <img src="./assets/skills/frontend/vue.png" width="75"
-           alt="Vue, and Vuex"
-           title="Vue, and Vuex"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
            alt="Web Components"
            title="Web Components"
@@ -70,6 +70,8 @@
     <td>
       <img src="./assets/skills/frontend/jquery.png" alt="jQuery" width="75" title="jQuery"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/storybook.png" width="75"
            alt="Storybook, as well as technologies such as Loki and JSDoc"
@@ -88,14 +90,14 @@
            title="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Pure CSS and Skeleton"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/bundlers.png" width="75"
            alt="Bundlers and task managers such as Webpack, Gulp"
            title="Bundlers and task managers such as Webpack, Gulp"
       />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/js_testing_tools.png" width="75"
            alt="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO"
