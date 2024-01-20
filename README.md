@@ -1,9 +1,10 @@
 <img src="./assets/preview.png" alt="Preview"/>
 
-## I'm Serhii Kostiv
+## I'm a Front-end Developer!
 
 - I'm From Ukraine (Ivano-Frankivsk);
 - 3+ Years Experience in Front-end Development;
+- Front-end Enthusiast
 
 ### Connect with me:
 
@@ -43,19 +44,19 @@
            title="State management libraries such as Redux, MobX"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL and Apollo" width="75"
-           title="GraphQL and Apollo"/>
+      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL" width="75"
+           title="GraphQL"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/next.png" width="75"
-           alt="Next.js, as well as SSR & SSG technologies such as Gatsby, HUGO, and Remix"
-           title="Next.js, as well as SSR & SSG technologies such as Gatsby, HUGO, and Remix"
+           alt="Next.js"
+           title="Next.js"
       />
     </td>
     <td>
       <img src="./assets/skills/frontend/vue.png" width="75"
-           alt="Vue, as well as technologies such as Vuex"
-           title="Vue, as well as technologies such as Vuex"
+           alt="Vue, and Vuex"
+           title="Vue, and Vuex"
       />
     </td>
   </tr>
@@ -71,14 +72,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/storybook.png" width="75"
-           alt="Storybook, as well as technologies such as JSDoc"
-           title="Storybook, as well as technologies such as JSDoc"
-      />
-    </td>
-    <td>
-      <img src="./assets/skills/frontend/html_template_engines.png"
-           alt="HTML" width="75"
-           title="HTML"
+           alt="Storybook, as well as technologies such as Loki and JSDoc"
+           title="Storybook, as well as technologies such as Loki and JSDoc"
       />
     </td>
     <td>
@@ -87,14 +82,14 @@
            title="CSS preprocessors such as SASS, LESS"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/css_tools.png" width="75"
            alt="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Pure CSS and Skeleton"
-           title="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize,, Pure CSS and Skeleton"
+           title="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Pure CSS and Skeleton"
       />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/bundlers.png" width="75"
            alt="Bundlers and task managers such as Webpack, Gulp"
@@ -103,26 +98,16 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_tools.png" width="75"
-           alt="JS testing tools such as Jest, Enzyme, RTL, Cypress"
-           title="JS testing tools such as Jest, Enzyme, RTL, Cypress"/>
-    </td>
-    <td>
-      <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" width="75" title="PWA and AMP"/>
+           alt="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO"
+           title="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO"/>
     </td>
     <td>
       <img src="./assets/skills/other/git.png" width="75"
            alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
            title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
-    </td>
-    <td>
-      <img src="./assets/skills/other/ci-cd.png" width="75"
-           alt="CI/CD tools such as Github Actions, GitLab CI/CD"
-           title="CI/CD tools such as Github Actions, GitLab CI/CD"/>
     </td>
     <td>
       <img src="./assets/skills/other/linters.png" width="75"
@@ -143,7 +128,10 @@
       <img src="./assets/skills/tools/trello.png" alt="Trello" width="75" title="Trello"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
+      <img src="./assets/skills/tools/confluence.png" alt="Confluence" width="75" title="Confluence"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/heroku.png" width="75" alt="Heroku" title="Heroku"/>
     </td>
   </tr>
   <tr>
@@ -152,6 +140,12 @@
     </td>
     <td>
       <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/invision.png" alt="InVision" width="75" title="InVision"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
     </td>
   </tr>
 </table>
