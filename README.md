@@ -45,21 +45,16 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/vue.png" width="75"
-           alt="Vue, and Vuex"
-           title="Vue, and Vuex"
+           alt="Vue and Vuex"
+           title="Vue and Vuex"
       />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/skills/frontend/redux.png" width="75"
-           alt="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"/>
-    </td>
-    <td>
       <img src="./assets/skills/frontend/state_management.png" width="75"
-           alt="State management libraries such as Redux, MobX"
-           title="State management libraries such as Redux, MobX"/>
+           alt="State management libraries such as MobX, Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="State management libraries such as MobX, Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
@@ -70,12 +65,18 @@
     <td>
       <img src="./assets/skills/frontend/jquery.png" alt="jQuery" width="75" title="jQuery"/>
     </td>
-  </tr>
-  <tr>
-    <td>
+        <td>
       <img src="./assets/skills/frontend/storybook.png" width="75"
            alt="Storybook, as well as technologies such as Loki and JSDoc"
            title="Storybook, as well as technologies such as Loki and JSDoc"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/skills/frontend/html_template_engines.png"
+           alt="HTML template engines such as Pug, EJS and Blade" width="75"
+           title="HTML template engines such as Pug, EJS and Blade"
       />
     </td>
     <td>
