@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img alt="Website" src="https://img.shields.io/badge/website-3423A6.svg?&style=for-the-badge&logo=google-chrome&logoColor=fff"/>][website]&nbsp;
+[<img alt="Portfolio" src="https://img.shields.io/badge/website-3423A6.svg?&style=for-the-badge&logo=google-chrome&logoColor=fff"/>][portfolio]&nbsp;
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"/>][linkedin]&nbsp;
 [<img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=fff"/>][email]
 
@@ -157,4 +157,4 @@ _**Note:** hover over a skill to get detailed information about it. </br> The in
 
 [linkedin]: https://www.linkedin.com/in/serhii-kostiv/
 [email]: mailto:kostiv.serhii@gmail.com
-[website]: https://serhiikostiv.herokuapp.com/
+[portfolio]: https://kraiviks.github.io/
