@@ -74,6 +74,7 @@
     </td>
   </tr>
   <tr>
+    <td></td>
     <td>
       <img src="./assets/skills/other/linters.png" width="75"
            alt="Linters and code formatters such as ESLint, Stylelint and Prettier"
@@ -82,6 +83,7 @@
     <td>
       <img src="./assets/skills/other/figma.png" alt="Figma and Adobe Photoshop" width="75" title="Figma and Adobe Photoshop"/>
     </td>
+    <td></td>
   </tr>
 </table>
 
