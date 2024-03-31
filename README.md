@@ -4,7 +4,7 @@
 
 - I'm From Ukraine (Ivano-Frankivsk);
 - 5+ Years Experience in Front-end Development;
-- Front-end Enthusiast
+- Front-end Enthusiast.
 
 ### Connect with me:
 
