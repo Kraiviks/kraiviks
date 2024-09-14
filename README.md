@@ -25,11 +25,14 @@
     <td>
       <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
     </td>
-    <td>
-      <img src="./assets/skills/frontend/react.png" alt="React" width="75" title="React"/>
+      <td>
+      <img src="./assets/skills/frontend/ts.png" alt="JavaScript" width="75" title="TypeScript"/>
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="./assets/skills/frontend/react.png" alt="React" width="75" title="React"/>
+    </td>
     <td>
       <img src="./assets/skills/frontend/next.png" width="75"
            alt="Next.js"
@@ -37,9 +40,20 @@
       />
     </td>
     <td>
+      <img src="./assets/skills/frontend/vue.png" alt="Vue" width="75" title="Vue"/>
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/nuxt.png" alt="Nuxt" width="75" title="Nuxt"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="./assets/skills/frontend/redux.png" width="75"
            alt="Redux and Redux Toolkit"
            title="Redux and Redux Toolkit"/>
+    </td>
+     <td>
+      <img src="./assets/skills/frontend/pinia.png" width="75" alt="Pinia" title="Pinia"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/jquery.png" alt="jQuery" width="75" title="jQuery"/>
