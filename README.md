@@ -105,4 +105,4 @@ _**Note:** hover over a skill to get detailed information about it. </br> The in
 
 [linkedin]: https://www.linkedin.com/in/serhii-kostiv/
 [email]: mailto:kostiv.serhii@gmail.com
-[portfolio]: https://kraiviks.github.io/
+[portfolio]: https://serhii-kostiv.github.io/
